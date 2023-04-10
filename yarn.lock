@@ -223,6 +223,11 @@
   dependencies:
     "@octokit/openapi-types" "^12.11.0"
 
+"@rav2040/dotenv@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@rav2040/dotenv/-/dotenv-1.2.1.tgz#bc59949a801f0afb76fef748229459042fa6dde9"
+  integrity sha512-+Gzs0LHcuCxFOVgo2JPdXsiSY2WiKuoOAUp9zxYrQBmvw5kLH99sFNhvLHTkFaBUjuuXu3WE9tusCNrlNbRLEA==
+
 "@types/node@^18.15.11":
   version "18.15.11"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.15.11.tgz#b3b790f09cb1696cffcec605de025b088fa4225f"
